@@ -277,7 +277,7 @@ Disponible solo en inglés, en la sede Castellana (no aplica para Grupos de Cone
 
 ## Encuentros
 
-### Encuentro de Conquistadores (17-18 mayo 2025, Suba)
+### Encuentro de Conquistadores
 - **Lugar**: Sede Suba (Calle 145 No. 99b-08).
 - **Horarios**:
   - Sábado: 6:30 a.m. - 5:30 p.m.
@@ -292,7 +292,7 @@ Disponible solo en inglés, en la sede Castellana (no aplica para Grupos de Cone
 
 **Palabras clave**: encuentro, conquistadores, requisitos, Suba.
 
-### Encuentro Normal (30 mayo - 1 junio 2025, Castellana)
+### Encuentro Normal
 - **Lugar**:
   - Viernes: Teatro, Sede Castellana (Calle 95 BIS No. 50-23).
   - Sábado y domingo: Edificio de Encuentros (Carrera 50 No. 94c-06).
@@ -307,7 +307,7 @@ Disponible solo en inglés, en la sede Castellana (no aplica para Grupos de Cone
 
 **Palabras clave**: encuentro, normal, bautismo, Castellana.
 
-### Encuentro de Teens (4-6 abril 2025, Bogotá)
+### Encuentro de Teens
 - **Costo**: $130.000.
 - **Inscripciones**: Desde el 13 de marzo de 2025 en **cuentas.supresencia.com** (cupos limitados).
 - **Requisitos**: Mínimo 3 asistencias en el último mes en un Grupo de Conexión.
