@@ -225,7 +225,7 @@ Horarios:
 
 ## Encuentros
 
-### Encuentro de Conquistadores (17-18 mayo 2025, Suba)
+### Encuentro de Conquistadores
 - **Lugar**: Sede Suba (Calle 145 No. 99b-08).
 - **Horarios**:
   - Sábado: 6:30 a.m. - 5:30 p.m.
@@ -238,7 +238,7 @@ Horarios:
 
 **Palabras clave**: encuentro, conquistadores, requisitos, Suba.
 
-### Encuentro Normal (30 mayo - 1 junio 2025, Castellana)
+### Encuentro Normal
 - **Lugar**:
   - Viernes: Teatro, Sede Castellana (Calle 95 BIS No. 50-23).
   - Sábado y domingo: Edificio de Encuentros (Carrera 50 No. 94c-06).
